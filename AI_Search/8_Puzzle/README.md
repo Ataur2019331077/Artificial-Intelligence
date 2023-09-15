@@ -1,4 +1,4 @@
-8-Puzzle Solver using BFS and GBFS
+##8-Puzzle Solver using BFS and GBFS
 This repository contains Python implementations of two popular search algorithms, Breadth-First Search (BFS) and Greedy Best-First Search (GBFS), applied to solve the 8-Puzzle problem. The 8-Puzzle is a classic sliding puzzle game where you must rearrange the tiles to get them in the correct order, typically from 1 to 8 in a 3x3 grid.
 
 Problem Description
